@@ -12,6 +12,7 @@ h1,h2,h3,h4,h5,h6 {
   letter-spacing:-0.05rem;
 }
 h1 .text-primary {
+        font-family: 'Noto Sans TC', sans-serif;
 	font-size: 3rem;
 	letter-spacing: -0.05rem;
 	line-height: 3rem;
