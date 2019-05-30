@@ -43,3 +43,13 @@ position:absolute;
 .bg-primary {
   background-color: #e6d4b8 !important;
 }
+
+.btn-primary {
+  background-color: #e6d4b8;
+  border-color: #e6d4b8;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #df902a;
+  border-color: #df902a;
+}
