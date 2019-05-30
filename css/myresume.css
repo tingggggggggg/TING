@@ -35,3 +35,11 @@ height:100%;
 width:100%;
 position:absolute;
 }
+
+.text-primary {
+  color: #e6d4b8 !important;
+}
+
+.bg-primary {
+  background-color: #e6d4b8 !important;
+}
