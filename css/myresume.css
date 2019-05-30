@@ -53,3 +53,9 @@ position:absolute;
   background-color: #df902a;
   border-color: #df902a;
 }
+
+.cta {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #a3a3a3 !important;
+}
