@@ -27,6 +27,7 @@ overflow:hidden;
 padding-bottom:56.25%;
 position:relative;
 height:0;
+background-color: #e6d4b8 !important;
 }
 .map-container-6 iframe{
 left:0;
@@ -50,8 +51,8 @@ position:absolute;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #df902a;
-  border-color: #df902a;
+  background-color: #df902a !important;
+  border-color: #df902a !important;
 }
 
 .cta {
