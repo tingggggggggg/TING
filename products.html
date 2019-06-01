@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta name="description" content="">
@@ -68,10 +68,10 @@
   </nav>
 
   <section class="page-section"> 
-    <div class="container">
-      <div class="product-item">
-        <div class="product-item-title d-flex">
-          <div class="bg-faded p-5 d-flex ml-auto rounded">
+    <div class="container" data-aos="fade-up">
+      <div class="product-item" data-aos="fade-up">
+        <div class="product-item-title d-flex" data-aos="fade-up">
+          <div class="bg-faded p-5 d-flex ml-auto rounded" data-aos="fade-up">
             <h2 class="section-heading mb-0">
               <span class="section-heading-upper">清爽無負擔</span>
               <span class="section-heading-lower">涼拌小黃瓜&玉米筍</span>
@@ -373,7 +373,10 @@
   <!-- Bootstrap core JavaScript -->
   <script src="vendor/jquery/jquery.min.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+  AOS.init();
+</script>
 </body>
 
 </html>
