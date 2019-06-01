@@ -86,3 +86,12 @@ position:absolute;
 .social-icons a:hover {
   background-color: #BD5D38;
 }
+
+.dev-icons {
+  font-size: 3rem;
+}
+
+.dev-icons .list-inline-item i:hover {
+  color: #BD5D38;
+}
+
