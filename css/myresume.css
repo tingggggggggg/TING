@@ -64,8 +64,6 @@ position:absolute;
 #mainNav {
   background-color: #a3a3a3; !important
   font-family: 'Raleway';
-  position:fixed;
-  top:-65px;
 }
 
 .social-icons a {
