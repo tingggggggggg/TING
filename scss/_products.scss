@@ -18,3 +18,22 @@
     }
   }
 }
+.fixed-book-table {
+    background: url(../img/book-table-bg.png) no-repeat center;
+    right: 0;
+    p {
+        @include transform(rotate(270deg) translate(-82px, 16px));
+        a {
+            color: #ffffff;
+            &:hover {
+                color: #000000
+            }
+        }
+    }
+    &:hover {
+        p {
+            @include transform(rotate(360deg) translate(5px, 80px));
+        }
+    }
+}
+
