@@ -94,16 +94,3 @@ position:absolute;
 .dev-icons .list-inline-item i:hover {
   color: #BD5D38;
 }
-
-#top-bar{
-     width:100%;
-     height:50px;
-     background:#a3a3a3;
-     position:fixed;
-     top:-65px;
-
- /* CSS3 陰影*/
--webkit-box-shadow: 0px 8px 15px #333;
--moz-box-shadow: 0px 8px 15px #333;
-box-shadow: 0px 8px 15px #333;   
-}
