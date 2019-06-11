@@ -95,7 +95,6 @@ position:absolute;
   color: #BD5D38;
 }
 
-<style>
 .navFixed {
   z-index: 10;          
   position: fixed;      
@@ -106,4 +105,4 @@ position:absolute;
   opacity: 0.94;
   transition: opacity .5s ease-out;   
 }
-</style>
+
