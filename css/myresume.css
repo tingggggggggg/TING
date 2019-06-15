@@ -43,6 +43,7 @@ position:absolute;
 
 .bg-primary {
   background-color: #e6d4b8 !important;
+background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
 }
 
 .btn-primary {
