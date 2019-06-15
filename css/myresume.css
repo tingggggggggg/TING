@@ -104,5 +104,8 @@ position:absolute;
   min-width: 100%;
   opacity: 0.94;
 }
+.cta{
+	    background-color: #BC8F8F !important;
+}
 
 
