@@ -47,7 +47,7 @@ position:absolute;
 
 .btn-primary {
   background-color: #e6d4b8 !important;
-  border-color: #e6d4b8 !important;
+  border-color: #2F4F4F !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -105,7 +105,7 @@ position:absolute;
   opacity: 0.94;
 }
 .cta{
-	    background-color: #BC8F8F !important;
+	    background-color: #e6d4b8 !important;
 }
 
 
