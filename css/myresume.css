@@ -43,7 +43,6 @@ position:absolute;
 
 .bg-primary {
   background-color: #e6d4b8 !important;
-background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
 }
 
 .btn-primary {
@@ -60,6 +59,7 @@ background-image: url("https://www.transparenttextures.com/patterns/60-lines.png
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #e6d4b8 !important;
+	background-image: url("https://www.transparenttextures.com/patterns/60-lines.png");
 }
 
 #mainNav {
